@@ -18,7 +18,7 @@ git add .
 git commit -m "Uploading Files to Git"
 
 -------------------------------
-git remote add origin https://github.com/ialds90/enter_cycle_changes.git
+git remote add origin https://github.com/ialds90/repository_name.git
 
 git branch -M main
 
